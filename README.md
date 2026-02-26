@@ -5,7 +5,7 @@ A demo Power Apps Canvas App showcasing a **side navigation component** UI patte
 ## Video Tutorial
 
 <!-- TODO: Replace the link below with the actual YouTube video URL -->
-[Watch the tutorial on YouTube](https://youtu.be/DMeZ-FBr01I)
+[![Watch the tutorial on YouTube](https://img.youtube.com/vi/DMeZ-FBr01I/maxresdefault.jpg)](https://youtu.be/DMeZ-FBr01I)
 
 ## Prerequisites
 
